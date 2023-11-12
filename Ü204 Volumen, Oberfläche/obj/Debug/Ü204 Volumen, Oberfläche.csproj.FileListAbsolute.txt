@@ -1,0 +1,7 @@
+C:\Users\benst\source\repos\Ü204 Volumen, Oberfläche\Ü204 Volumen, Oberfläche\bin\Debug\Ü204 Volumen, Oberfläche.exe.config
+C:\Users\benst\source\repos\Ü204 Volumen, Oberfläche\Ü204 Volumen, Oberfläche\bin\Debug\Ü204 Volumen, Oberfläche.exe
+C:\Users\benst\source\repos\Ü204 Volumen, Oberfläche\Ü204 Volumen, Oberfläche\bin\Debug\Ü204 Volumen, Oberfläche.pdb
+C:\Users\benst\source\repos\Ü204 Volumen, Oberfläche\Ü204 Volumen, Oberfläche\obj\Debug\Ü204 Volumen, Oberfläche.csproj.AssemblyReference.cache
+C:\Users\benst\source\repos\Ü204 Volumen, Oberfläche\Ü204 Volumen, Oberfläche\obj\Debug\Ü204 Volumen, Oberfläche.csproj.CoreCompileInputs.cache
+C:\Users\benst\source\repos\Ü204 Volumen, Oberfläche\Ü204 Volumen, Oberfläche\obj\Debug\Ü204 Volumen, Oberfläche.exe
+C:\Users\benst\source\repos\Ü204 Volumen, Oberfläche\Ü204 Volumen, Oberfläche\obj\Debug\Ü204 Volumen, Oberfläche.pdb
