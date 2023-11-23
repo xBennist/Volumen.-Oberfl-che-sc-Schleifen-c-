@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
 
-        //Benjamin Streitriegl
+    
         Console.WriteLine("Welche Figur möchten Sie berechnen?");
         Console.WriteLine("(W)ürfel, (Q)ader, (Z)ylinder, (D)onut (K)ugel, K(E)gel?");
         char figur = Console.ReadKey().KeyChar;
