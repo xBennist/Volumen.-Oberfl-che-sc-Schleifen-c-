@@ -1,0 +1,7 @@
+C:\Users\heinz\source\repos\Ü205 Figuren sc\Ü205 Figuren sc\bin\Debug\Ü205 Figuren sc.exe.config
+C:\Users\heinz\source\repos\Ü205 Figuren sc\Ü205 Figuren sc\bin\Debug\Ü205 Figuren sc.exe
+C:\Users\heinz\source\repos\Ü205 Figuren sc\Ü205 Figuren sc\bin\Debug\Ü205 Figuren sc.pdb
+C:\Users\heinz\source\repos\Ü205 Figuren sc\Ü205 Figuren sc\obj\Debug\Ü205 Figuren sc.csproj.AssemblyReference.cache
+C:\Users\heinz\source\repos\Ü205 Figuren sc\Ü205 Figuren sc\obj\Debug\Ü205 Figuren sc.csproj.CoreCompileInputs.cache
+C:\Users\heinz\source\repos\Ü205 Figuren sc\Ü205 Figuren sc\obj\Debug\Ü205 Figuren sc.exe
+C:\Users\heinz\source\repos\Ü205 Figuren sc\Ü205 Figuren sc\obj\Debug\Ü205 Figuren sc.pdb
